@@ -1,0 +1,60 @@
+[
+    {
+        "numeroCli": 1,
+        "nomCom": "Client1",
+        "tel": 771234567,
+        "adresse": "Dakar",
+        "email": "client1@exemple.com"
+    },
+    {
+        "numeroCli": 2,
+        "nomCom": "Client2",
+        "tel": 772345678,
+        "adresse": "Rufisque",
+        "email": "client2@exemple.com"
+    },
+    {
+        "numeroCli": 3,
+        "nomCom": "Client3",
+        "tel": 772346678,
+        "adresse": "Bargny",
+        "email": "client3@exemple.com"
+    },
+    {
+        "numeroCli": 4,
+        "nomCom": "Client4",
+        "tel": 772445678,
+        "adresse": "Sebikotane",
+        "email": "client4@exemple.com"
+    },
+    {
+        "numeroCli": 5,
+        "nomCom": "Client5",
+        "tel": 772345677,
+        "adresse": "Dagana",
+        "email": "client5@exemple.com"
+    },
+    {
+        "numeroCli": 6,
+        "nomCom": "Client6",
+        "tel": 772345679,
+        "adresse": "Camberene",
+        "email": "client6@exemple.com"
+    },
+    {
+        "numeroCli": 7,
+        "nomCom": "Client7",
+        "tel": 772343679,
+        "adresse": "Guediaway",
+        "email": "client7@exemple.com"
+    },
+    {
+        "numeroCli": 8,
+        "nomCom": "Client8",
+        "tel": 774345679,
+        "adresse": "Thies",
+        "email": "client8@exemple.com"
+    }
+]
+
+
